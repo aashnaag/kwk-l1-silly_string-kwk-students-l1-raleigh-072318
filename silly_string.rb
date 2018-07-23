@@ -33,7 +33,7 @@ bigger_word = supercalifragilisticexpialidocious+wow+mom Use String concatenatio
 
 new_letter_count = bigger_word.size
 
-puts "There are now #{new_letter_counin #{bigger_word}"
+puts "There are now #{40} #{supercalifragilisticexpialidociouswowmom}"
 
 # Challenge 6: Capitalize this sentence properly
 
