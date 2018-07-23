@@ -25,7 +25,7 @@ big_word = "supercalifragilisticexpialidocious".length
 
 letter_count = "supercalifragilisticexpialidocious".length
 
-puts "There are in "supercalifragilisticexpialidocious"
+puts "There are 34 letters in "supercalifragilisticexpialidocious"
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
