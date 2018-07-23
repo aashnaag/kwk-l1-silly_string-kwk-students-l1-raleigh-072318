@@ -28,7 +28,8 @@ letter_count = "supercalifragilisticexpialidocious".length
 puts "There are #{letter_count} letters in #{big_word}"
 # Challenge 5: Add "wow" and "mom" to big_word
 
-bigger_word = supercalifragilisticexpialidocious+wow+mom Use String concatenation to add "wow" and "mom" to big_word
+bigger_word = big_word + "wow" + "mom" 
+Use String concatenation to add "wow" and "mom" to big_word
 
 new_letter_count = bigger_word.size
 
